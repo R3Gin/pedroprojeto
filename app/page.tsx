@@ -176,7 +176,7 @@ export default function SMCLandingPage() {
               size="lg"
               className="bg-gradient-to-r from-cyan-500 to-cyan-600 hover:from-cyan-600 hover:to-cyan-700 text-black font-semibold px-10 py-5 text-lg neon-glow hover-lift animate-pulse-slow shadow-2xl"
             >
-              🚀 QUERO COMEÇAR A FATURAR - R$ 47
+              🚀 QUERO COMEÇAR A LUCRAR- R$ 47
             </Button>
             <Button
               size="lg"
@@ -293,7 +293,7 @@ export default function SMCLandingPage() {
                 size="lg"
                 className="bg-gradient-to-r from-cyan-500 to-cyan-600 hover:from-cyan-600 hover:to-cyan-700 text-black font-semibold px-8 py-4 hover-lift neon-glow"
               >
-                🚀 SIM, QUERO FATURAR 
+                🚀 SIM, QUERO LUCRAR 
               </Button>
               <Button
                 size="lg"
@@ -621,7 +621,7 @@ export default function SMCLandingPage() {
 
                 <div className="flex items-center gap-3 hover-scale">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span>Setup PESSOAL do Pedro (nunca revelado - valor R$ ) </span>
+                  <span>Setup PESSOAL do Pedro (nunca revelado - Sem valor estimado )  </span>
                 </div>
                 <div className="flex items-center gap-3 hover-scale">
                   <CheckCircle className="w-5 h-5 text-green-400" />
@@ -629,7 +629,7 @@ export default function SMCLandingPage() {
                 </div>
                 <div className="flex items-center gap-3 hover-scale">
                   <CheckCircle className="w-5 h-5 text-green-400" />
-                  <span>Alertas dos movimentos de R$ 10.000+ antes que aconteçam</span>
+                  <span>Alertas dos movimentos que me renderam R$10.000+ antes mesmo de acontecerem.</span>
                 </div>
                 <div className="text-sm text-gray-400 mt-4">
                   Grupo VIP: apenas R$ 47/mês (cancelável a qualquer momento)
@@ -704,7 +704,7 @@ export default function SMCLandingPage() {
               Pedro Coden
             </h4>
             <p className="text-gray-300 text-lg">
-              Especialista em Smart Money Concepts. Transformando traders em profissionais desde 2021.
+              Especialista em Smart Money Concepts. Transformando traders em profissionais desde 2022.
             </p>
           </div>
 
